@@ -1,0 +1,19 @@
+{
+  "name": "akki_api",
+  "version": "1.0.0",
+  "description": "My test npm package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manmen2414/akki_api.git"
+  },
+  "author": "manmen2414",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/manmen2414/akki_api/issues"
+  },
+  "homepage": "https://github.com/manmen2414/akki_api#readme"
+}
